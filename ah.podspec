@@ -3,12 +3,10 @@
 Pod::Spec.new do |s|
   s.name             = 'ah'
   s.version          = '0.1.0'
-s.summary          = 'A dfghjkl;lkjhgfdsdfghjkl;.'
+s.summary          = 'A dfghjkl;lkjhgfdsdfghjkl'
 
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'fghjklkjhgfdsdfghjkjhgfdsdfghjkjhgfdsdfghjhgfdsdfghjhgfd'
 
   s.homepage         = 'https://github.com/ahad11/ah'
 
