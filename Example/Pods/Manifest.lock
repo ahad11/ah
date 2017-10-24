@@ -1,0 +1,16 @@
+PODS:
+  - ah (0.1.0)
+
+DEPENDENCIES:
+  - ah (from `../`)
+
+EXTERNAL SOURCES:
+  ah:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ah: e4f017467d41c95f4cbb1c767dc48b961b115dcc
+
+PODFILE CHECKSUM: fdf095aa8b055b48f2e118fdf83807087155694a
+
+COCOAPODS: 1.4.0.beta.1
